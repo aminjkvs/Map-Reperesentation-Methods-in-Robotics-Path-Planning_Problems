@@ -45,4 +45,5 @@ Visualize the **occupancy values** as a **color-scaled heat map**, where:
 - **Cool colors (blue)** = free space
 - **Warm colors (red)** = occupied or high-risk areas
 
-![distanceBasedHeatMap](https://github.com/user-attachments/assets/f1a3ed73-f90d-4e48-bf53-c1132035922c)
+![distanceBasedHeatMap](https://github.com/user-attachments/assets/388f4a8a-efe3-4100-a5d7-7be64007213a)
+
